@@ -16,6 +16,6 @@
       enabled: true
   - name: create user
     user:
-     name: wangchuk
+     name: wangch
      state: present
 
